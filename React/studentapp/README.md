@@ -1,6 +1,3 @@
-
-# React Components Overview
-
 ## Explain React Components
 
 React components are independent, reusable pieces of code that return React elements to be rendered to the DOM. They serve as the building blocks of any React application, allowing you to split the UI into smaller, manageable pieces. Components can manage their own state and receive data via props.
