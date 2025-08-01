@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import { CohortsData} from './Cohort'
 import CohortDetails from './CohortDetails'; 
